@@ -38,7 +38,4 @@ the_shawshank_redemption = Media.Movie("The Shawshank Redemption",
 movies = [logan, titanic,  avatar, it, the_persuit_of_happyness, the_shawshank_redemption,]
 fresh_tomatoes.open_movies_page(movies)
 
-#print(avatar.storyline)
-#avatar.show_trailer()
 
-#the_shawshank_redemption.show_trailer()
